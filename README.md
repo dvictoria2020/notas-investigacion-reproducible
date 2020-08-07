@@ -1,1 +1,1 @@
-# notas-investigacion-reproducible
+Notas sobre investigción reproducible
