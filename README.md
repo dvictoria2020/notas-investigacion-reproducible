@@ -14,6 +14,7 @@ Con el fin de resolver esta problemática, diferentes organizaciones, como el Co
 
 
 ![](https://programacion-sig-2020.github.io/tarea-01-markdown/img/ZiemannEtAlFig1.png)
+
 Figura 1. Resultados de la revisión sistemática de archivos Excel suplementarios. Fuente: (Ziemann et al., 2016).
 
 
